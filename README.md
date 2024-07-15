@@ -4,7 +4,7 @@
 
 # Hello there, I’m Shiven Patel!
 
-# Statistics
+## Statistics
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 
