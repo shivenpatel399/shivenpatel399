@@ -27,7 +27,10 @@ I am a sophomore at American High School and a backend developer who enjoys prog
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Discord-cyan?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Discord-cyan?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="shivenpatel399@gmail.com">
+    <img src="https://img.shields.io/badge/Google-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
 </div>
 
