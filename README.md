@@ -19,10 +19,6 @@ I am a sophomore at American High School and a backend developer who enjoys prog
 
 Here are all my contacts:
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 - **Discord:** shivpat._.
 - **Instagram:** @shivpat09
 - **Facebook:** ShivPat09
@@ -48,6 +44,10 @@ Here are all my contacts:
 [![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!---
 shivenpatel399/shivenpatel399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
