@@ -1,4 +1,4 @@
-# Hello! I’m Shiven Patel
+# Hello there, I’m Shiven Patel!
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 
