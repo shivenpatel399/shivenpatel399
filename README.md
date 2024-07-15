@@ -20,11 +20,11 @@ Email: shivenpatel399@gmail.com
 
 ## Languages
 
--   ![Language](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white)
--   ![Language](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
--   ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logoColor=white)
--   ![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java&logoColor=white)
--   ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Language](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white)
+![Language](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 
 ## Some of my creations:
 [![AHSRobotTour-v1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AHSRobotTour-v1.0.0&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
