@@ -23,16 +23,16 @@ Here are all my contacts:
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/ShivPat09/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/shivpat09/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Discord-cyan?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="shivenpatel399@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
