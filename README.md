@@ -31,10 +31,12 @@ Email: shivenpatel399@gmail.com
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 
 ## Some of my creations:
-[![AHSRobotTour-v1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AHSRobotTour-v1.0.0&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![AHSRobotTour-v1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AHSRobotTour-v1.0.0&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/AHSRobotTour-v1.0.0)
+[![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=material-palenight&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage)
+[![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
+[![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
+[![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
 <!---
 shivenpatel399/shivenpatel399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
