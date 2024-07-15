@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-instagram-URL">
+    <img src="https://img.shields.io/badge/Instagram-pinkd?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-discord-URL">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 # Hello there, I’m Shiven Patel!
 
 ## Statistics
@@ -11,10 +27,6 @@
 ## About me
 
 I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ## Contacts
 
