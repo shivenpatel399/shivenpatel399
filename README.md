@@ -7,6 +7,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
 ## About me
@@ -21,20 +23,10 @@ Here are all my contacts:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.facebook.com/ShivPat09/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/shivpat09/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="shivenpatel399@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+- **Discord:** shivpat._.
+- **Instagram:** @shivpat09
+- **Facebook:** ShivPat09
+- **Email:** shivenpatel399@gmail.com
 
 
 ## Languages
