@@ -36,7 +36,6 @@ Here are all my contacts:
   </a>
 </div>
 
-shivenpatel399@gmail.com
 
 ## Languages
 
