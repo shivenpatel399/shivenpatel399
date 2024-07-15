@@ -2,7 +2,7 @@
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
 ## About me
 
