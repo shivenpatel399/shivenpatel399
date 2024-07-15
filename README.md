@@ -1,16 +1,12 @@
 # Hello there, I’m Shiven Patel!
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## Statistics
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivenpatel399&theme=theme_name)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
