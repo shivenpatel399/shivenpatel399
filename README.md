@@ -30,7 +30,7 @@ I am a sophomore at American High School and a backend developer who enjoys prog
     <img src="https://img.shields.io/badge/Discord-cyan?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="shivenpatel399@gmail.com">
-    <img src="https://img.shields.io/badge/Google-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
