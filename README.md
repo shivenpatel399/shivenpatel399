@@ -11,8 +11,11 @@ I am a sophomore at American High School and a backend developer who enjoys prog
 ## Contacts
 
 Discord: shivpat._.
+
 Instagram: shivpat09
+
 Facebook: ShivPat09
+
 Email: shivenpatel399@gmail.com
 
 ## Languages
