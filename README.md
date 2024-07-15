@@ -15,6 +15,8 @@ I am a sophomore at American High School and a backend developer who enjoys prog
 
 ## Contacts
 
+Here are all my contacts:
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -33,6 +35,8 @@ I am a sophomore at American High School and a backend developer who enjoys prog
     <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
+
+shivenpatel399@gmail.com
 
 ## Languages
 
