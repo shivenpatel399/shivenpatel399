@@ -6,8 +6,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivenpatel399&theme=material-palenight)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
 ## About me
