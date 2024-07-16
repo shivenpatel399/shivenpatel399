@@ -1,12 +1,5 @@
 # Hello there, I’m Shiven Patel!
 
-![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
-
-
 ## About me
 
 I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
@@ -24,6 +17,12 @@ My Experiences:
 - Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
+
+![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
 ## Contacts
 
