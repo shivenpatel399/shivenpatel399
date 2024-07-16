@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
-<img align="right" alt="Coding" width="500" src="https://giphy.com/embed/jRf5fsn8G6YaogAWxn">
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
 **My Experiences with CS and Engineering:**
@@ -47,14 +47,6 @@ Here are all my contacts:
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## What I am doing:
-
-- Currently doing more projects, mainly focussing on applications and robotics
-- Looking into Machine Learning and AI
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 
 ## Top Projects:
