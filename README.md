@@ -4,7 +4,7 @@
 
 I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
 
-My Experiences:
+My Experiences with CS and Engineering:
 - Knowledge of CS Algorithms
 - Understanding of C++
 - Understanding of Python
