@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shiven Patel!</h1>
 <h3 align="center">A passionate full-stack developer who enjoys programming, engineering, and computer science.</h3>
 
-[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:shivenpatel399@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat09/)
 [![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
 
