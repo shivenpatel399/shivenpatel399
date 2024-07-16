@@ -3,11 +3,10 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/biswajyotiray/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
-
-**My Experiences with CS and Engineering:**
+## My Experiences with CS and Engineering:
 - Knowledge of CS Algorithms
 - Understanding of C++
 - Understanding of Python
