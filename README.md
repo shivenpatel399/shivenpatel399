@@ -7,9 +7,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-## Contacts
-
-Here are all my contacts:
+**Contacts**
 
 - **Discord:** shivpat._.
 - **Instagram:** @shivpat09
