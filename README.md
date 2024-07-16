@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shiven Patel!</h1>
+<h1 align="center">Hi 👋, I'm Shiven Patel!</h1>
 <h3 align="center">I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science.</h3>
 
 
@@ -25,6 +25,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
+
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
 
 ## Contacts
 
