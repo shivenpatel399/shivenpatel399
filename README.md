@@ -7,6 +7,7 @@
 </div>
 
 ## My Experiences with CS and Engineering:
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 - Knowledge of CS Algorithms
 - Understanding of C++
 - Understanding of Python
@@ -25,8 +26,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
-
-[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
 ## Contacts
 
