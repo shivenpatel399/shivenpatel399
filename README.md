@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
-<img align="right" alt="Coding" width="500" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://giphy.com/stickers/dgitechart-transparent-it-itechart-jRf5fsn8G6YaogAWxn)">
+<img align="right" alt="Coding" width="500" src="https://giphy.com/stickers/dgitechart-transparent-it-itechart-jRf5fsn8G6YaogAWxn">
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
