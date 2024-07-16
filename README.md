@@ -20,10 +20,12 @@
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
 
+<div alight="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
+</div>
+
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
