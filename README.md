@@ -26,7 +26,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
-[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/harshhere905/github-readme-activity-graph)
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
 ## Contacts
 
