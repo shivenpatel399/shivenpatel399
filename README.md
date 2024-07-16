@@ -16,14 +16,14 @@
 - Coded with hardware such as EV3 and Arduino
 - Knowledge of Arduino
 - FLL Robotics - Made it to World Festivals
-- Robotics in Science Olympiad - Won Many Awards
+- Robotics in Science Olympiad - Won Many Award
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
