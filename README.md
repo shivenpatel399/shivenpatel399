@@ -6,7 +6,8 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
-<iframe src="https://giphy.com/embed/jRf5fsn8G6YaogAWxn" width="480" height="480" style="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-transparent-it-itechart-jRf5fsn8G6YaogAWxn">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/jRf5fsn8G6YaogAWxn">
+
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
