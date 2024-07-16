@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. 
+I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
