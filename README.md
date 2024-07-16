@@ -11,6 +11,20 @@
 
 I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
 
+My Experiences:
+- Knowledge of CS Algorithms
+- Understanding of C++
+- Understanding of Python
+- Understanding of Java
+- Understanding of CSS
+- Understanding of HTML
+- Coded with hardware such as EV3 and Arduino
+- Knowledge of Arduino
+- FLL Robotics - Won World Festivals
+- Robotics in Science Olympiad - Won Many Awards
+- Coded applications and a website
+- Currently learning about Machine Learning and AI
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -36,6 +50,15 @@ Here are all my contacts:
 ![Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java&logoColor=white)
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+
+## What I am doing:
+
+- Currently doing more projects, mainly focussing on applications and robotics
+- Looking into Machine Learning and AI
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)" width="100"/>
+</div>
 
 ## Some of my creations:
 
