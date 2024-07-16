@@ -1,5 +1,7 @@
 # Hello there, I’m Shiven Patel!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivenpatel399&label=Profile%20views&color=0e75b6&style=flat" alt="Shiven Patel" /> </p>
+
 ## About me
 
 I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
