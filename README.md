@@ -21,6 +21,7 @@
 - Currently learning about Machine Learning and AI
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=donut-vertical)
+
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=material-palenight&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivenpatel399&theme=dark" width="48%" >
 
