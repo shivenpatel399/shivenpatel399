@@ -7,7 +7,6 @@
 </div>
 
 ## My Experiences with CS and Engineering:
-[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 - Knowledge of CS Algorithms
 - Understanding of C++
 - Understanding of Python
@@ -61,6 +60,7 @@ Here are all my contacts:
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=material-palenight&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
 
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
 <!---
 shivenpatel399/shivenpatel399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
