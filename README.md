@@ -21,7 +21,9 @@
 - FLL Robotics - Made it to World Festivals
 - Robotics in Science Olympiad - Won Many Award
 - Coded applications and a website
-- Currently learning about Machine Learning and AI
+**Current Status:**
+- Looking more into Machine Learning and AI
+- Creating more projects (applications and websites)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
