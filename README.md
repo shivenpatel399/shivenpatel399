@@ -25,10 +25,6 @@ My Experiences:
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## Contacts
 
 Here are all my contacts:
@@ -55,7 +51,9 @@ Here are all my contacts:
 
 - Currently doing more projects, mainly focussing on applications and robotics
 - Looking into Machine Learning and AI
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## My Projects:
 
