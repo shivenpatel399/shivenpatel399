@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
+## About Me
+
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 **My Experiences with CS and Engineering:**
@@ -32,7 +34,7 @@
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
 
 
-**Languages**
+## Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,14 +44,14 @@
 
 
 
-**Top Projects:**
+## Top Projects
 
 [![AHSRobotTour-v1.0.0](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AHSRobotTour-v1.0.0&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AHSRobotTour-v1.0.0)
 [![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
 
-**Contacts**
+## Contacts
 
 - **Discord:** shivpat._.
 - **Instagram:** @shivpat09
