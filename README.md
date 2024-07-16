@@ -20,7 +20,7 @@
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
 
-<div alight="center">
+<div align="center">
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=material-palenight&layout=compact)
 </div>
 
