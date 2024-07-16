@@ -7,17 +7,6 @@
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-**Contacts**
-
-- **Discord:** shivpat._.
-- **Instagram:** @shivpat09
-- **Facebook:** ShivPat09
-- **Email:** shivenpatel399@gmail.com
-
-[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat09/)
-[![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
-
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
 - Understanding of C++
@@ -59,6 +48,17 @@
 [![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
+
+## Contacts**
+
+- **Discord:** shivpat._.
+- **Instagram:** @shivpat09
+- **Facebook:** ShivPat09
+- **Email:** shivenpatel399@gmail.com
+
+[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat09/)
+[![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
 
 
 <!---
