@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 ## My Experiences with CS and Engineering:
 - Knowledge of CS Algorithms
 - Understanding of C++
