@@ -21,6 +21,7 @@
 - FLL Robotics - Made it to World Festivals
 - Robotics in Science Olympiad - Won Many Award
 - Coded applications and a website
+
 **Current Status:**
 - Looking more into Machine Learning and AI
 - Creating more projects (applications and websites)
