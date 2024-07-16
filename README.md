@@ -56,9 +56,6 @@ Here are all my contacts:
 - Currently doing more projects, mainly focussing on applications and robotics
 - Looking into Machine Learning and AI
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)" width="100"/>
-</div>
 
 ## Some of my creations:
 
