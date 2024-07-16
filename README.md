@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiven Patel!</h1>
-<h3 align="center">I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science.</h3>
+<h3 align="center">A passionate full-stack developer who enjoys programming, engineering, and computer science.</h3>
 
 
 <div align="center">
