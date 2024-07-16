@@ -13,7 +13,7 @@ I am a sophomore at American High School and a backend developer who enjoys prog
 - Understanding of HTML
 - Coded with hardware such as EV3 and Arduino
 - Knowledge of Arduino
-- FLL Robotics - Won World Festivals
+- FLL Robotics - Made it to World Festivals
 - Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
 - Currently learning about Machine Learning and AI
