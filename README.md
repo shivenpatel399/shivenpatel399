@@ -7,6 +7,18 @@
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
+## Contacts
+
+Here are all my contacts:
+
+- **Discord:** shivpat._.
+- **Instagram:** @shivpat09
+- **Facebook:** ShivPat09
+- **Email:** shivenpatel399@gmail.com
+
+[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat09/)
+[![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
@@ -31,19 +43,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivenpatel399&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
-
-## Contacts
-
-Here are all my contacts:
-
-- **Discord:** shivpat._.
-- **Instagram:** @shivpat09
-- **Facebook:** ShivPat09
-- **Email:** shivenpatel399@gmail.com
-
-[![Email](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:shivenpatel399@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF4500.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivpat09/)
-[![Facebook](https://img.shields.io/badge/-Facebook-FE7A16?logo=Facebook&logoColor=white)](https://www.facebook.com/ShivPat09/)
 
 
 ## Languages
