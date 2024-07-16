@@ -1,10 +1,11 @@
-# Hello there, I’m Shiven Patel!
+<h1 align="center">Hi, I'm Shiven Patel!</h1>
+<h3 align="center">I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivenpatel399&label=Profile%20views&color=0e75b6&style=flat" alt="Shiven Patel" /> </p>
 
-## About me
+<div align="center">
+  <img src="https://profile-counter.glitch.me/biswajyotiray/count.svg?"  />
+</div>
 
-I am a sophomore at American High School and a backend developer who enjoys programming, engineering, and computer science. As a backend developer, I create many applications, mainly on Discord. 
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
