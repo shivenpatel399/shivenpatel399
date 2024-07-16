@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
 </div>
 
-<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 
 **My Experiences with CS and Engineering:**
