@@ -46,14 +46,14 @@ Change the pixels back to 450 once the stats widgets start working again
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<!---
+
 ## Top Projects
 
 [![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=chartreuse-dark&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage/tree/master)
 [![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
---->
+
 ## Contacts
 
 - **Discord:** shivpat._.
