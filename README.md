@@ -9,7 +9,7 @@
 <!--- 
 Change the pixels back to 450 once the stats widgets start working again
 --->
-<img align="right" alt="Coding" width="375" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
