@@ -19,7 +19,7 @@
 - Coded with hardware such as EV3 and Arduino
 - Knowledge of Arduino
 - FLL Robotics - Made it to World Festivals
-- Robotics in Science Olympiad - Won Many Award
+- Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
 
 **Current Status:**
