@@ -25,7 +25,7 @@ Change the pixels back to 450 once the stats widgets start working again
 - Coded applications and a website
 
 **Current Status:**
-- Looking more into Machine Learning and AI
+- Looking more into Machine Learning/Data Science and AI
 - Creating more projects (applications and websites)
 <!---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
