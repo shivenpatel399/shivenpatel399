@@ -26,9 +26,9 @@
 - Looking more into Machine Learning and AI
 - Creating more projects (applications and websites)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
-[![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=chartreuse-dark&show_icons=true)]
+![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=chartreuse-dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivenpatel399&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
