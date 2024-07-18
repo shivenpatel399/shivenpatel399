@@ -7,9 +7,9 @@
 
 
 <!--- 
-Change the pixels back to 450 once the stats widgets stop working again
+Change the pixels back to 345 once the stats widgets stop working again
 --->
-<img align="right" alt="Coding" width="345" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 **My Experiences with CS and Engineering:**
 - Knowledge of CS Algorithms
@@ -27,11 +27,10 @@ Change the pixels back to 450 once the stats widgets stop working again
 **Current Status:**
 - Looking more into Machine Learning, Data Science, and AI
 - Creating more projects (applications and websites)
-<!--
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=chartreuse-dark&show_icons=true)
---->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivenpatel399&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
@@ -46,14 +45,14 @@ Change the pixels back to 450 once the stats widgets stop working again
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<!--
+
 ## Top Projects
 
 [![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=chartreuse-dark&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage/tree/master)
 [![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
 [![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
---->
+
 ## Contacts
 
 - **Discord:** shivpat._.
