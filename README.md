@@ -28,12 +28,12 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Looking more into Machine Learning, Data Science, and AI
 - Creating more projects (applications and websites)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=neon&layout=compact)
 
-![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=chartreuse-dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shivenpatel399&theme=chartreuse-dark)](https://git.io/streak-stats)
+![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=neon&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shivenpatel399&theme=neon)](https://git.io/streak-stats)
 
-[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=chartreuse-dark)](https://github.com/shivenpatel399/)
+[![Shiven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivenpatel399&theme=neon)](https://github.com/shivenpatel399/)
 
 
 ## Languages
@@ -48,10 +48,10 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 ## Top Projects
 
-[![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=chartreuse-dark&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage/tree/master)
-[![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
-[![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
-[![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
+[![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=neon&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage/tree/master)
+[![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AstroID&theme=neon&show_icons=true)](https://github.com/shivenpatel399/AstroID) 
+[![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=neon&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
+[![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=neon&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
 
 ## Contacts
 
