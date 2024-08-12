@@ -50,6 +50,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 [![AHSSciOPage](https://github-readme-stats.vercel.app/api/pin/?username=AmericanScienceOlympiad&repo=AHSSciOPage&theme=chartreuse-dark&show_icons=true)](https://github.com/AmericanScienceOlympiad/AHSSciOPage/tree/master)
 [![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID)
+[![EpidemicBot](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EpidemicBot&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EpidemicBot)
 
 ## Contacts
 
