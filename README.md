@@ -23,6 +23,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - FLL Robotics - Made it to World Festivals
 - Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
+- Used Neural Networking/Machine Learning for an Object Detection Project
 
 **Current Status:**
 - Looking more into Machine Learning, Data Science, and AI
