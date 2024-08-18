@@ -25,9 +25,9 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Coded applications and a website
 
 **Current Status:**
-- Looking more into Machine Learning, Data Science, NLP, and AI
+- Looking more into Machine Learning, Data Science, and AI
 - Creating more projects (applications, websites, etc.)
-- Looking into TensorFlow and CNNs
+- Looking into TensorFlow, Convolutional Neural Networks, Yolo, DarkNet, and NLP
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
