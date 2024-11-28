@@ -19,7 +19,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Understanding of CSS
 - Understanding of HTML
 - Coded with hardware such as EV3 and Arduino
-- Knowledge of Arduino
+- Knowledge of Arduino and EV3
 - FLL Robotics - Made it to World Festivals
 - Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
