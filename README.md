@@ -24,8 +24,8 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Robotics in Science Olympiad - Won Many Awards
 - Coded applications and a website
 - Used Neural Networking/Machine Learning for an Object Detection Project as a Project Intern
-- CodeForces Rating: **857**
-- Worldwide Ranking on Kattis Coding Platform: **#4366** out of 200000
+- CodeForces Rating: **1757**
+- Worldwide Ranking on Kattis Coding Platform: **#966** out of 200000
 
 **Current Status:**
 - Looking more into Machine Learning, Data Science, and AI
