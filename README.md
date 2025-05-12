@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shiven Patel!</h1>
-<h3 align="center">A passionate full-stack developer who enjoys programming, engineering, and machine learning.</h3>
+<h3 align="center">A passionate full-stack developer - Experienced in programming, engineering, and machine learning.</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"  />
@@ -12,25 +12,20 @@ Change the pixels back to 345 once the stats widgets stop working again
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 **My Experiences with CS and Engineering:**
-- Knowledge of CS Algorithms
-- Understanding of C++
-- Understanding of Python
-- Understanding of Java
-- Understanding of CSS
-- Understanding of HTML
+- Skilled in Computer Science Algorithms
+- Skilled in C++, Python, HTML/CSS, JavaScript, and Java Programming
 - Coded with hardware such as EV3 and Arduino
-- Knowledge of Arduino and EV3
 - FLL Robotics - Made it to World Festivals
-- Robotics, Electrical and Mechanical Engineering in Science Olympiad - Won Many Awards
-- Coded applications and a website
-- Used Neural Networking/Machine Learning for an Object Detection Project as a Project Intern
+- Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
+- Coded applications and websites
+- Used Neural Networking/Machine Learning for an Object Detection Project as a Researcher
 - CodeForces Rating: **1757** (USACO Silver/Gold Equivalent)
 - International Ranking on Kattis Coding Platform: **#966** out of 200000
 
 **Current Status:**
-- Looking more into Machine Learning, Data Science, and AI
-- Creating more projects (applications, websites, etc.)
-- Looking into TensorFlow, Convolutional Neural Networks, Yolo, DarkNet, and NLP
+- Developing skills in Machine Learning and AI
+- Developing more projects (i.e. websites)
+- Coding applications on many platforms
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
@@ -58,7 +53,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 ## Contacts
 
-- **Discord:** shivpat07
+- **Discord:** shivpat09
 - **Instagram:** @shivpat09
 - **Facebook:** ShivPat09
 - **Email:** shivenpatel399@gmail.com
