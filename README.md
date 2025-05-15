@@ -47,8 +47,8 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 ## Top Projects
 
-[![AstroID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=WordSniper&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/WordSniper)
-[![EntomologyID](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=EntomologyID&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/EntomologyID/)
+[![WordSniper](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=WordSniper&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/WordSniper)
+[![AnagramSniper](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AnagramSniper&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/anagramsniper)
 
 
 ## Contacts
