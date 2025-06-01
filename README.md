@@ -20,7 +20,6 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Coded applications and websites
 - Used Neural Networking/Machine Learning for an Object Detection Project as a Researcher
 - CodeForces Rating: **1757** (USACO Silver/Gold Equivalent)
-- International Ranking on Kattis Coding Platform: **#966** out of 200000
 
 **Current Status:**
 - Developing skills in Machine Learning and AI
