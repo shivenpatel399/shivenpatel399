@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Shiven Patel!</h1>
 <h3 align="center">A passionate full-stack developer - Experienced in programming, engineering, and machine learning.</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shivenpatel399/count.svg?"/>
-</div>
-
 
 <!--- 
 Change the pixels back to 345 once the stats widgets stop working again
