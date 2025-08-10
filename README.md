@@ -11,7 +11,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Skilled in Computer Science Algorithms
 - Skilled in C++, Python, HTML/CSS, JavaScript, and Java Programming
 - Coded with hardware such as EV3 and Arduino
-- FLL Robotics - Made it to World Festivals
+- Former Team Captain for a FLL Robotics Team - Made it to World Festivals
 - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
 - Vice President of a T50 Nationally-Ranked SciOly Team
 - Coded applications and websites
