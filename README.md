@@ -53,7 +53,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 ## Contacts
 
 - **Discord:** shivpat09
-- **Instagram:** @shivpat09
+- **Instagram:** @shivpat_
 - **Facebook:** ShivPat09
 - **Email:** shivenpatel399@gmail.com
 
