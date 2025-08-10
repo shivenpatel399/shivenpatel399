@@ -13,6 +13,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Coded with hardware such as EV3 and Arduino
 - FLL Robotics - Made it to World Festivals
 - Robotics, Electrical and Mechanical Engineering in Science Olympiad - Top Ranker Statewide
+- Vice President of a T50 Nationally-Ranked SciOly Team
 - Coded applications and websites
 - Used Neural Networking/Machine Learning for an Object Detection Project as a Researcher
 - CodeForces Rating: **1757** (USACO Silver/Gold Equivalent)
@@ -21,6 +22,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Developing skills in Machine Learning and AI
 - Developing more projects (i.e. websites)
 - Coding applications on many platforms
+- Currently looking into RNNs for a potential predicting project with ML
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
