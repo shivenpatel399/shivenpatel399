@@ -24,6 +24,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 - Coding applications on many platforms
 - Currently looking into RNNs for a potential predicting project with ML
 
+**Stats:**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatel399&theme=chartreuse-dark&layout=compact)
 
 ![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenpatel399&theme=chartreuse-dark&show_icons=true)
@@ -42,7 +43,7 @@ Change the pixels back to 345 once the stats widgets stop working again
 
 
 
-## Top Projects
+## Some Projects
 
 [![WordSniper](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=WordSniper&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/WordSniper)
 [![AnagramSniper](https://github-readme-stats.vercel.app/api/pin/?username=shivenpatel399&repo=AnagramSniper&theme=chartreuse-dark&show_icons=true)](https://github.com/shivenpatel399/anagramsniper)
