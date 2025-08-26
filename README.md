@@ -18,10 +18,10 @@ Change the pixels back to 345 once the stats widgets stop working again
 - CodeForces Rating: **1757** (USACO Silver/Gold Equivalent)
 
 **Current Status:**
-- Developing skills in Machine Learning and AI
+- Expanding on Machine Learning
 - Developing more projects (i.e. websites)
 - Coding applications on many platforms
-- Currently looking into RNNs for a potential predicting project with ML
+- Currently looking into LSTM for a project using ML
 
 ## Stats
 
