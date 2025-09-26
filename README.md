@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shiven Patel!</h1>
-<h3 align="center">A passionate full-stack developer - Experienced in programming, engineering, and machine learning.</h3>
+<h3 align="center">A passionate coder - Experienced in programming, engineering, and machine learning.</h3>
 
 
 <!--- 
